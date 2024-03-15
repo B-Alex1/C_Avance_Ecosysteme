@@ -1,0 +1,18 @@
+Alexander BAKALOV 21105567
+Alexander DIMANACHKI 211212989
+
+
+Voici notre projet "Ecosys" pour l'UE de "C Avancé" de Sorbonne Université.
+Ce projet est essentiellement ecrit en C, et vise à imiter l'évolution d'un écosystème de proies et de predateurs.
+
+
+Voici quelques commades utiles à savoir:
+
+make (ou make all): Permet de compiler le code et de créer l'exécutable principal: "ecosys"
+
+make graph: Permet de construire le graph montrant l'évolution de la population de proies et de prédateurs au cours de l'exécution
+
+make clean: Permet de vider le répertoire en ne gardant que les fichiers essentiels
+
+
+Bonus: Pour avoir une courte histoire au début de la simulation, téléchargez et rendez executable la commande "cowsay"
